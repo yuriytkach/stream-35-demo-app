@@ -1,0 +1,2 @@
+app:
+  record-expiration: 10M
